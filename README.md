@@ -23,10 +23,10 @@ div
 ```
 
 # Usage
-Use like any other Stylus plugin. Lost (and
-[PostCSS](https://github.com/postcss/postcss)) not included, although their
-usage is obviously required.  I've found
-[poststylus](https://github.com/seaneking/poststylus) to integrate PostCSS with
+Use like any other Stylus plugin. Lost and
+[PostCSS](https://github.com/postcss/postcss) are not included although their
+usage is of course required. I've found
+[poststylus](https://github.com/seaneking/poststylus) to integrate PostCSS and
 Stylus rather nicely.
 
 ```javascript
