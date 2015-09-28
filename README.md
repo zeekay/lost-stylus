@@ -23,9 +23,9 @@ div
 ```
 
 # Usage
-Use like any other Stylus plugin. Doesn't include Lost or
-[PostCSS](https://github.com/postcss/postcss) so you'll need to include those
-in your Stylus workflow. I've found
+Use like any other Stylus plugin. Lost (and
+[PostCSS](https://github.com/postcss/postcss)) not included, although their
+usage is obviously required.  I've found
 [poststylus](https://github.com/seaneking/poststylus) to integrate PostCSS with
 Stylus rather nicely.
 
