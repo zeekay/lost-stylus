@@ -1,12 +1,12 @@
 {
   "name": "lost-stylus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lost grid system in Stylus without the prefixes.",
   "keywords": [
-      "lost",
-      "css",
-      "postcss",
-      "stylus"
+    "lost",
+    "css",
+    "postcss",
+    "stylus"
   ],
   "homepage": "http://github.com/zeekay/lost-stylus",
   "bugs": "http://github.com/zeekay/lost-stylus/issues",
