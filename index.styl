@@ -1,4 +1,14 @@
 // Aliases for various lost properties
+lost(gutter = false, flexbox = false, cycle = false, clearing = false)
+  if gutter
+    @lost \gutter {gutter}px
+  if flexbox
+    @lost \flexbox {flexbox}
+  if cycle
+    @lost \cycle {cycle}
+  if clearing
+    @lost \clearing {clearing}
+
 align()
   lost-align arguments
 
