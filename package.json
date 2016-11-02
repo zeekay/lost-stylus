@@ -1,6 +1,6 @@
 {
   "name": "lost-stylus",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Lost grid system in Stylus without the prefixes.",
   "keywords": [
     "lost",
