@@ -1,4 +1,6 @@
 # lost-stylus
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/lost-stylus.svg)](https://greenkeeper.io/)
 Collection of mixins for [Stylus](https://learnboost.github.io/stylus/)
 intended for use with [Lost](https://github.com/corysimmons/lost). Makes Lost
 properties available without the `lost-` prefix, with the exception of
