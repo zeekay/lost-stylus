@@ -11,7 +11,7 @@
   "homepage": "http://github.com/zeekay/lost-stylus",
   "bugs": "http://github.com/zeekay/lost-stylus/issues",
   "main": "index.js",
-  "author": "Zach Kelling <zk@monoid.io> (http://zeekay.io)",
+  "author": "Zach Kelling <z@zeekay.io> (zeekay.io)",
   "repository": {
     "type": "git",
     "url": "http://github.com/zeekay/lost-stylus"
